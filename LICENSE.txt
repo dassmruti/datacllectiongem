@@ -1,0 +1,5 @@
+The MIT License (MIT)
+
+Copyright (c) 2017 Dave Kimura
+
+Permision is hereby granted, free of charge,
